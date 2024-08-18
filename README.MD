@@ -1,4 +1,7 @@
 # Embedded Systems Project
+This is a serious of embedded projects based on the ARM® Cortex®-M4F Based MCU TM4C123G LaunchPad™ Evaluation Kit
+
+[Tiva Board](https://www.ti.com/tool/EK-TM4C123GXL)
 
 ## [Lab 1 - LED Light Bar Simulation](Lab_1)
 This lab uses the TM4C123G microcontroller to control two sets of 3 LEDs where one set emits red while one emits blue. Three patterns were developed so that the LEDs would turn on and off based on the pattern. A structure will be used to store the patterns and the possibility of editing them in the future. A switch is also used to switch between different patterns or when looking at the code looping through the structure array.

@@ -14,9 +14,11 @@
 
 ## Flowchart
 - Main function
+
 ![alt text](<Main function.drawio.png>)
 
 - Stepper Motor function
+
 ![alt text](<StepperMotor function.drawio.png>)
 
 ## Source Code
