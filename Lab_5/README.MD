@@ -1,4 +1,4 @@
-# Lab 5 - 
+# Lab 5 - Scan a Key from a Matrix Keypad
 
 ## Circuit Diagram
 - LCD Circuit Diagram

@@ -19,3 +19,8 @@ The purpose of the experiment was to be able to control a 4-digit segment displa
 Lab 5 used a microcontroller to read from a 4x4 matrix keypad and display the selection through LCD. For example, if the user presses the number “5” from the matrix, then the number 5 is displayed on the LCD.
 
 [-> Source Code](Lab_5/main.c)
+
+## [Lab 6 - Stepper Motor Interface](Lab_6)
+Lab 6 consisted of using a microcontroller to control a motor, a stepper motor to be specific. The use of steps rotates this type of motor; in this case, we are using the half step to control it. Two switches are also used to control the motor. When both switches are pressed, the stepper motor rotates 90 degrees clockwise. However, when one switch is pressed, the stepper motor will rotate 4 steps counterclockwise; when the other switch is pressed, the motor rotates 5 steps counterclockwise.
+
+[-> Source Code](Lab_6/main.c)
